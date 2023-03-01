@@ -11,5 +11,29 @@ floor8 = '8'
 
 if floor == '1':
   print ('going to ' + floor1 )
-elif floor > '1':
-  input('would you like to go to anyother floor')
+elif floor == '2':
+  print('going to ' + floor2 ) 
+elif floor == '3':
+  print('going to ' + floor3 ) 
+elif floor == '4':
+  print('going to ' + floor4 ) 
+elif floor == '5':
+  print('going to ' + floor5 ) 
+elif floor == '6':
+  print('going to ' + floor6 ) 
+elif floor == '7':
+  print('going to ' + floor7 )
+elif floor == '8':
+  print('going to ' + floor8 ) 
+#elif floor > '1':
+  #input('would you like to go to anyother floor')
+#elif floor > '1':
+  #input('would you like to go to anyother floor')
+#elif floor > '1':
+  #input('would you like to go to anyother floor')
+#elif floor > '1':
+  #input('would you like to go to anyother floor')
+#elif floor > '1':
+  #input('would you like to go to anyother floor')
+
+

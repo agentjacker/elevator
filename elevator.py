@@ -9,6 +9,13 @@ floor6 = '6'
 floor7 = '7'
 floor8 = '8'
 
+user_A = input ('what floor are you going to? ')
+user_B = input ('what floor are you going to? ')
+user_C = input ('what floor are you going to? ')
+user_D = input ('what floor are you going to? ')
+user_E = input ('what floor are you going to? ')
+
+
 if floor == '1':
   print ('going to ' + floor1 )
 elif floor == '2':
@@ -25,15 +32,7 @@ elif floor == '7':
   print('going to ' + floor7 )
 elif floor == '8':
   print('going to ' + floor8 ) 
-#elif floor > '1':
-  #input('would you like to go to anyother floor')
-#elif floor > '1':
-  #input('would you like to go to anyother floor')
-#elif floor > '1':
-  #input('would you like to go to anyother floor')
-#elif floor > '1':
-  #input('would you like to go to anyother floor')
-#elif floor > '1':
-  #input('would you like to go to anyother floor')
+
+
 
 
